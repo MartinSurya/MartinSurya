@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MartinSurya
+- 👀 Currently a Master in Physics. Striving to get into data analytics field.
+- 🌱 I’m currently learning Data Analysis. Trying to teach myself the art of analysing datas through subsequent online guidance.
+- 📫 Reach me on instagram @martin.mv13
